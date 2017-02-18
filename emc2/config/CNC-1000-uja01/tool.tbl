@@ -1,0 +1,4 @@
+T1 P1 D1.900000 Z+0.000000 ;1.9mm mill
+T2 P2 D0.062500 Z+0.100000 ;1/16 end mill
+T3 P3 D3.200000 Z+0.000000 ;3.2mm diameter drill
+T99999 P99999 Z+0.100000 ;big tool number
